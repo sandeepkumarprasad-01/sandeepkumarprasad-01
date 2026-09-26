@@ -1,254 +1,166 @@
-<div align="center">
+![alt text](image.png)
+# 👋 Hey, I'm Sandeep Kumar Prasad
 
-# `sandeep@dev:~$`
+<img align="right" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-**Software Developer · AI/ML · Backend · Geospatial**
+### 💻 Software Developer | AI & Backend Enthusiast
 
-</div>
+I'm a **Software Development Engineer (SDE)** interested in building practical software, AI-powered systems, and developer tools.
 
-```text
-sandeep@dev:~$ whoami
-sandeep
-
-sandeep@dev:~$ neofetch
-```
-
-<table>
-<tr>
-<td width="52%" valign="top">
-
-```text
-@@@@@@@@@@@%%@@@@@@@@@@@@@@@@@@@@@@@@@@%@+ . .#@@@@@@@@@@@
-@@@@@@@@@@%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@%%:   .#@@@@@@@@@@
-@@@@@@@@@%%@@@@@@@@@@@%%%@@@@@@@@@@@@@@@%@*    .#@@@@@@@@@
-@@@@@@@@%%@@@@@@@@@@@@%%%%@@@@@@@@@@@@@@@%%-    .%@@@@@@@@
-@@@@@@@%%@@@@@@@@@@@@@@%##%%@@@@@@@@@@@@@%%#.    :@@@@@@@@
-@@@@@@@%@@@@@@@@@%%####%%%@%%@@@@@@@@@@@@%%%=     +@@@@@@@
-@@@@@@%@@@@@@@@@%*+=--:.-+%@@@@@@@@@@@@@@%%%%:     #@@@@@@
-@@@@@@%@@@@@@@@%#*=-:.    .=#%@@@@@@@@@@@%%%%*     -@@@@@@
-@@@@@%@@@@@@@@@%#*+-.       :*%@@@@@@@@@@%%%%%-     #@@@@@
-@@@@@%@@@@@@@@%##+-.        .=%@@@@@@@@@@@%%%%#.    -@@@@@
-@@@@%@@@@@@@@@%#*=.     .... =%@@@@@@@@@@@%%%%%=     #@@@@
-@@@@%@@@@@@@@@%##+=:..:+#+-=::%@@@@@@@@@@%%%%%%#:    +@@@@
-@@@%%@@@@@@@@@@@@@@*-:=#+..--.#@%@@@@@@@@%%%%%%%+    :@@@@
-@@@%@@@@@@@@@@@%=-*%= :*++==. =%@@@@@@@@@@%%%%%%%-    %@@@
-@@@%@@@@@@@@@@@%++=*:  :*#=:  .+@@@@@@@@@@@%%%%%%#.   *@@@
-@@@%@@@@@@@@@%%%%*-:.   .:.   .+%@@@@%#*#%@@%%%%%%=   =@@@
-@@@%@@@@@@@@@#===:.:.         .:%@%@@%*#+=*%@@%%%%%:  -@@@
-@@@%@@@@@@@@@*.   .:          .-%%%@%%#%@+-=*@@@@%@*  :@@@
-@@%%@@@@@%%%@=..  :#+-+:     ..=%%%@%%#+%%+=-+*#@@@@- :@@@
-@@%%@@%%%%%%@+:...*@@#*=     =+-%%%@@%*=#@*+=-=++%@@#..%@@
-@@%%%%%%%%%%@#=:..#%*=.     :*%+%%%@%#*++@%*+=+==+@@@=.@@@
-@@%%%%%%%%%%@%*:.:+*=--:-=  =#**#%%@%#*=-#@***=-=+@@@%-%@@
-@@@%%%%%%%%@@%%=:=%*-:..::.:*#+++#@@%%*-:=@#**=-=#%#@@#%@@
-@@@%%%%%%%%%%@%+:::+==:.  .+#*++*%%%%*=--:#%#+==+@%*+#@@@@
-@@@%%%%%@%#@%%@#-::-==:   =#***%@@%@%==--:=@#*+=*@@#*=#@@@
-@@@%%%%%@@#@@%@%*-:.     -#**#@@@@@#====-::##*+=+%@##+#@@@
-@@@%%%%%%@#%@%%@%#=...  :*##%%@%@@#++++==-:=**+=+%%#**%@@@
-@@@%%%@@@@@*%@#@@@#=:..:+#++*%%#%#******+==-**++*%%#*+@@@@
-@@@@%@@@@@@%*@#%@@@%#+*+*+++++*##*+++++++===+*+*#%%@#*@@@@
-@@@@%%@@@@@@%#@%@@@@@@#***++*###+==+++*+++=-=***%%#@@%@@@@
-@@@@@%@@@@@@@##@@@@@@#+#+****%#+==+++**++++==+*%@%#%@@@@@@
-@@@@@%@@@@@@@@#%@@@@@+*+****##===+++***+++++=+#%@##%%@@@@@
-@@@@@@%@@@@@@@@**@@@#+***+*%*===++++***+++++==#%%*#%@@@@@@
-@@@@@@%%%@@@@@@##%#%+*+++*%*==+++++++*+++++++=*@#**%@@@@@@
-@@@@@@@%%@@%%%@@*@%-+***#%*+++**+**+**++++++==+%*%@@@@@@@@
-@@@@@@@%#%@#*#%@*+-=**#%%+==++**+++****+++=+==+#%@%%@@@@@@
-@@@@@@@@%##*+*#%*--=+*%%*+=+++++++++++++++=+===*@%#%#@@@@@
-@@@@@@@@@#+++*#%*.:+*%%*=+++++++++++++++++=====*@%###@@@@@
-```
-
-</td>
-<td width="48%" valign="top">
-
-```text
-┌──────────────────────────────────────────────┐
-│ Sandeep Kumar Prasad                         │
-│                                              │
-│ OS        : Windows / Linux                  │
-│ Age       : 22                               │
-│ Role      : Software Developer               │
-│ Focus     : AI / Backend / Systems           │
-│                                              │
-│ Languages : Python, Java, C++, JavaScript,   │
-│             SQL                              │
-│                                              │
-│ AI/ML     : Qwen, Transformers,              │
-│             LangChain, LangGraph             │
-│                                              │
-│ Backend   : APIs, PostgreSQL, MongoDB,       │
-│             Redis, Supabase                  │
-│                                              │
-│ Tools     : Git, GitHub, Docker, VS Code,    │
-│             Neovim, Helix                    │
-│                                              │
-│ Interests : Local LLMs                       │
-│             Agentic AI                       │
-│             GIS / Remote Sensing             │
-│             Linux / Developer Tools          │
-└──────────────────────────────────────────────┘
-```
-
-</td>
-</tr>
-</table>
-
-## `sandeep@dev:~$ cat about.txt`
-
-```text
-I'm a software developer interested in building practical systems
-and understanding how things work under the hood.
-
-I enjoy working with backend systems, AI/ML, local LLMs,
-agentic workflows, databases, geospatial applications and
-developer tooling.
-
-I learn by building, breaking, debugging and improving.
-```
-
-## `sandeep@dev:~$ ls ~/projects`
-
-```text
-drwxr-xr-x  ORCA/
-drwxr-xr-x  Urban-Bunk/
-drwxr-xr-x  local-qwen-experiments/
-```
-
-### `ORCA/`
-
-Multi-agent AI architecture focused on:
-
-```text
-User Request
-     │
-     ▼
- Supervisor
-     │
-     ├── Weather Agent
-     ├── Ocean Agent
-     ├── Satellite Agent
-     ├── Alert Agent
-     ├── Decision Agent
-     └── Explanation Agent
-             │
-             ▼
-        Final Response
-```
-
-### `Urban-Bunk/`
-
-An Airbnb-style application project involving frontend, backend,
-APIs, database workflows and Git/GitHub.
-
-### `local-qwen-experiments/`
-
-Experiments with local **Qwen models** using Hugging Face Transformers,
-including memory-efficient inference and quantization.
+I enjoy working with **backend development, AI/ML, APIs, databases, Linux, and system-level tooling** while continuously learning new technologies.
 
 ---
 
-## `sandeep@dev:~$ cat stack.txt`
+## 🚀 About Me
 
-```text
-LANGUAGES
-  Python       ████████████████████
-  Java         ███████████████░░░░░
-  C++          █████████████░░░░░░░
-  JavaScript   ████████████░░░░░░░░
-  SQL          ████████████░░░░░░░░
-
-AI / ML
-  Qwen
-  Hugging Face Transformers
-  LangChain
-  LangGraph
-  NumPy / Pandas / Matplotlib
-
-BACKEND / DATA
-  REST APIs
-  PostgreSQL
-  MongoDB
-  Redis
-  Supabase
-  Docker
-
-TOOLS
-  Git / GitHub
-  VS Code
-  Neovim
-  Helix
-  Linux
-  Windows
-```
+* 💻 Software Development Engineer
+* 🤖 Interested in **AI Agents & LLM applications**
+* 🐍 Working with **Python**
+* ☕ Learning & building with **Java**
+* ⚡ Working with **C++**
+* 🐧 Exploring **Linux & developer tooling**
+* 🧠 Interested in **Machine Learning & Generative AI**
+* 🔗 Exploring **LangChain & LangGraph**
+* 🗄️ Interested in **Databases & Backend Systems**
+* 🛠️ Love experimenting with developer tools
+* 🎯 Always learning and building something new
 
 ---
 
-## `sandeep@dev:~$ cat philosophy.txt`
+## 🧰 Tech Stack
 
-```text
-              BUILD
-                │
-                ▼
-             BREAK 💥
-                │
-                ▼
-            DEBUG 🔧
-                │
-                ▼
-          UNDERSTAND 🧠
-                │
-                ▼
-            IMPROVE 🚀
-                │
-                └───────────► repeat
-```
+### 👨‍💻 Languages
 
-> Build it. Break it. Understand it. Improve it.
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css" />
+</p>
 
----
+### 🤖 AI / Machine Learning
 
-## `sandeep@dev:~$ git status`
+* Large Language Models
+* Local LLMs
+* Transformers
+* Qwen
+* AI Agents
+* LangChain
+* LangGraph
+* Prompt Engineering
+* Model Optimization & Quantization
 
-```text
-On branch main
+### ⚙️ Backend & APIs
 
-Changes I like:
-  + learning
-  + building
-  + debugging
-  + experimenting
-  + shipping
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,express" />
+</p>
 
-nothing to commit -- always learning
-```
+* REST APIs
+* Backend Architecture
+* API Integration
+* Agent-based Backend Systems
 
-## `sandeep@dev:~$ echo $CURRENT_FOCUS`
+### 🗄️ Databases
 
-```text
-AI Agents
-Local LLMs
-Backend Engineering
-Geospatial Applications
-Linux & Developer Tooling
-System Design
-```
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+</p>
+
+### 🛠️ Developer Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,neovim" />
+</p>
 
 ---
 
-<div align="center">
+## 🧠 Currently Exploring
 
-```text
-┌───────────────────────────────────────────────┐
-│                                               │
-│   while (alive) {                            │
-│       learn();                                │
-│       build();                                │
-│       repeat();                               │
-│   }                                          │
-│                                               │
-└───────────────────────────────────────────────┘
-```
+* 🤖 AI Agents & Agentic AI
+* 🧠 Local LLMs
+* 🔗 LangChain & LangGraph
+* ⚡ FastAPI & Backend Architecture
+* 🐧 Linux & Developer Tooling
+* 🗄️ PostgreSQL & Databases
+* 🐳 Docker & Containerization
+* 📝 Neovim & Terminal Workflow
 
-**`$ exit`**
+---
 
-</div>
+## 🔥 Featured Project
+
+### 🏠 Urban-Bunk
+
+An Airbnb-style full-stack web application focused on property discovery and booking functionality.
+
+**Focus:**
+
+* Full-stack development
+* REST APIs
+* Database integration
+* Authentication
+* Modern frontend development
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=sandeepkumarprasad-01&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepkumarprasad-01&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+## 📈 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeepkumarprasad-01&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/sandeepkumarprasad-01/sandeepkumarprasad-01/output/github-contribution-grid-snake-dark.svg" />
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://github.com/sandeepkumarprasad-01">
+<img src="https://skillicons.dev/icons?i=github" width="45"/>
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+</a>
+
+</p>
+
+---
+
+## ⚡ Developer Mindset
+
+> "The best way to learn programming is to build things."
+
+I believe in learning by **building, experimenting, debugging, and understanding how things work under the hood.**
+
+---
+
+<p align="center">
+
+### 🚀 Keep Building. Keep Learning. Keep Improving.
+
+<img src="https://komarev.com/ghpvc/?username=sandeepkumarprasad-01&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</p>
